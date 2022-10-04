@@ -1,0 +1,15 @@
+C:\Users\Office\Desktop\Яна (учеба)\itog\obj\Debug\net6.0\prog.csproj.AssemblyReference.cache
+C:\Users\Office\Desktop\Яна (учеба)\itog\obj\Debug\net6.0\prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Office\Desktop\Яна (учеба)\itog\obj\Debug\net6.0\prog.AssemblyInfoInputs.cache
+C:\Users\Office\Desktop\Яна (учеба)\itog\obj\Debug\net6.0\prog.AssemblyInfo.cs
+C:\Users\Office\Desktop\Яна (учеба)\itog\obj\Debug\net6.0\prog.csproj.CoreCompileInputs.cache
+C:\Users\Office\Desktop\Яна (учеба)\itog\bin\Debug\net6.0\prog.exe
+C:\Users\Office\Desktop\Яна (учеба)\itog\bin\Debug\net6.0\prog.deps.json
+C:\Users\Office\Desktop\Яна (учеба)\itog\bin\Debug\net6.0\prog.runtimeconfig.json
+C:\Users\Office\Desktop\Яна (учеба)\itog\bin\Debug\net6.0\prog.dll
+C:\Users\Office\Desktop\Яна (учеба)\itog\bin\Debug\net6.0\prog.pdb
+C:\Users\Office\Desktop\Яна (учеба)\itog\obj\Debug\net6.0\prog.dll
+C:\Users\Office\Desktop\Яна (учеба)\itog\obj\Debug\net6.0\refint\prog.dll
+C:\Users\Office\Desktop\Яна (учеба)\itog\obj\Debug\net6.0\prog.pdb
+C:\Users\Office\Desktop\Яна (учеба)\itog\obj\Debug\net6.0\prog.genruntimeconfig.cache
+C:\Users\Office\Desktop\Яна (учеба)\itog\obj\Debug\net6.0\ref\prog.dll
